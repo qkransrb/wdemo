@@ -8,6 +8,6 @@ public class HomeController {
 
     @GetMapping
     public String home() {
-        return "updated home version 1";
+        return "updated home version 2";
     }
 }
